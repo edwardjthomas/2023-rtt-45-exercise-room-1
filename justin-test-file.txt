@@ -1,3 +1,5 @@
 This is my test file that I'm adding to the project.
 
 Caitlin added a line to this file.
+
+Caitlin added another line
